@@ -1,0 +1,9 @@
+﻿  LocalPlayer.cpp
+E:\Games\ACM Cyber\game-hacking-workshop\cyber-aimbot\CSGOAimbot\Project1\LocalPlayer.cpp(43,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+E:\Games\ACM Cyber\game-hacking-workshop\cyber-aimbot\CSGOAimbot\Project1\LocalPlayer.cpp(56,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Games\ACM Cyber\game-hacking-workshop\cyber-aimbot\CSGOAimbot\Project1\LocalPlayer.cpp(58,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\Games\ACM Cyber\game-hacking-workshop\cyber-aimbot\CSGOAimbot\Project1\LocalPlayer.cpp(59,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Player.cpp
+  Source.cpp
+  Generating Code...
+  Project1.vcxproj -> E:\Games\ACM Cyber\game-hacking-workshop\cyber-aimbot\CSGOAimbot\Debug\CSGO-Aimbot.dll
