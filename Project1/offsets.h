@@ -4,6 +4,7 @@
 // https://github.com/frk1/hazedumper
 // 2021-03-30 12:30:54.732323 UTC
 
+// engine.dll
 #define cs_gamerules_data  0x0
 #define m_ArmorValue  0xB378
 #define m_Collision  0x320
@@ -97,6 +98,7 @@
 #define m_viewPunchAngle  0x3020
 #define m_zoomLevel  0x33D0
 
+// client.dll
 #define anim_overlays  0x2980
 #define clientstate_choked_commands  0x4D30
 #define clientstate_delta_ticks  0x174
